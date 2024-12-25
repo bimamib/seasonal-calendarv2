@@ -49,7 +49,7 @@ export default function Home() {
 
   return (
     <div className="container mx-auto p-1">
-      <Card className="w-full max-w-xl mx-auto">
+      <Card className="w-full max-w-xl mx-auto p-2">
         <CardHeader className="pb-2">
           <CardTitle className="text-base">Jakarta, Indonesia</CardTitle>
         </CardHeader>
